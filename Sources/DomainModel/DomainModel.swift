@@ -112,6 +112,11 @@ public class Job {
                 self.type = JobType.Salary(salary + raise)
             }
     }
+    
+    // Extra Credit - Convert Jobs
+    func convert() {
+
+    }
 }
 
 ////////////////////////////////////
